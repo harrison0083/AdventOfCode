@@ -1,0 +1,24 @@
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.exe
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.deps.json
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.runtimeconfig.json
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.runtimeconfig.dev.json
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.dll
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.pdb
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.csprojAssemblyReference.cache
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.AssemblyInfoInputs.cache
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.AssemblyInfo.cs
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.dll
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.pdb
+C:\Users\ThomasHarrison\Documents\ws\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\input.txt
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.exe
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\input.txt
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.deps.json
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.runtimeconfig.json
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.runtimeconfig.dev.json
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.dll
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\bin\Debug\netcoreapp3.0\AdventOfCode1.pdb
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.csprojAssemblyReference.cache
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.AssemblyInfoInputs.cache
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.AssemblyInfo.cs
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.dll
+C:\Users\ThomasHarrison\Documents\ws\Advent of Code\AdventOfCode1\AdventOfCode1\obj\Debug\netcoreapp3.0\AdventOfCode1.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode1\\AdventOfCode1\\AdventOfCode1.csproj": {}
+    "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode2\\AdventOfCode2\\AdventOfCode2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode1\\AdventOfCode1\\AdventOfCode1.csproj": {
+    "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode2\\AdventOfCode2\\AdventOfCode2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode1\\AdventOfCode1\\AdventOfCode1.csproj",
-        "projectName": "AdventOfCode1",
-        "projectPath": "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode1\\AdventOfCode1\\AdventOfCode1.csproj",
+        "projectUniqueName": "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode2\\AdventOfCode2\\AdventOfCode2.csproj",
+        "projectName": "AdventOfCode2",
+        "projectPath": "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode2\\AdventOfCode2\\AdventOfCode2.csproj",
         "packagesPath": "C:\\Users\\ThomasHarrison\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode1\\AdventOfCode1\\obj\\",
+        "outputPath": "C:\\Users\\ThomasHarrison\\Documents\\ws\\AdventOfCode\\AdventOfCode2\\AdventOfCode2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
